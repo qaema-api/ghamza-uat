@@ -18,6 +18,17 @@
                 "Sweet Pepper",
                 "Lemon Oil Sauce"
               ]
+            },
+            {
+              "name": "Classic Caesar",
+              "price": "270,000",
+              "isPopular": false,
+              "ingredient": [
+                "Iceburg Lettuce",
+                "Parmesan Cheese",
+                "Croutons on top",
+                "Caesar sauce"
+              ]
             }
           ]
         }
