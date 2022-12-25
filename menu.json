@@ -2,24 +2,26 @@
   {
     "category": {
       "name": "Food",
-      "subcategory": {
-        "name": "Salads",
-        "items": [
-          {
-            "name": "Tabbouleh",
-            "price": "145,000",
-            "isPopular": true,
-            "ingredient": [
-              "Fresh Parsley",
-              "Tomato",
-              "Bougoul",
-              "Onions",
-              "Sweet Pepper",
-              "Lemon Oil Sauce"
-            ]
-          }
-        ]
-      }
+      "subcategories": [
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Tabbouleh",
+              "price": "145,000",
+              "isPopular": true,
+              "ingredient": [
+                "Fresh Parsley",
+                "Tomato",
+                "Bougoul",
+                "Onions",
+                "Sweet Pepper",
+                "Lemon Oil Sauce"
+              ]
+            }
+          ]
+        }
+      ]
     }
   }
 ]
