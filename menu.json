@@ -31,6 +31,17 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Hot Mezza",
+          "items": [
+            {
+              "name": "French Fries",
+              "price": "125,000",
+              "isPopular": false,
+              "ingredient": []
+            }
+          ]
         }
       ]
     }
