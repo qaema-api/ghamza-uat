@@ -45,5 +45,29 @@
         }
       ]
     }
+  },
+  {
+    "category": {
+      "name": "Beverages",
+      "subcategories": [
+        {
+          "name": "Cold coffee",
+          "items": [
+            {
+              "name": "Iced Coffee",
+              "price": "110,000",
+              "isPopular": true,
+              "ingredient": ["Expresso", "Milk Powder", "Coffee"]
+            },
+            {
+              "name": "Frappuccino",
+              "price": "110,000",
+              "isPopular": true,
+              "ingredient": ["Expresso", "Vanilla", "Caramel", "Milk"]
+            }
+          ]
+        }
+      ]
+    }
   }
 ]
