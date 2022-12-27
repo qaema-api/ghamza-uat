@@ -10,10 +10,10 @@
               "name": "Tabbouleh",
               "price": "145,000",
               "isPopular": true,
-              "ingredient": [
+              "ingredients": [
                 "Fresh Parsley",
                 "Tomato",
-                "Bougoul",
+                "Bourgoul",
                 "Onions",
                 "Sweet Pepper",
                 "Lemon Oil Sauce"
@@ -23,7 +23,7 @@
               "name": "Classic Caesar",
               "price": "270,000",
               "isPopular": false,
-              "ingredient": [
+              "ingredients": [
                 "Iceburg Lettuce",
                 "Parmesan Cheese",
                 "Croutons on top",
@@ -57,13 +57,13 @@
               "name": "Iced Coffee",
               "price": "110,000",
               "isPopular": true,
-              "ingredient": ["Expresso", "Milk Powder", "Coffee"]
+              "ingredients": ["Expresso", "Milk Powder", "Coffee"]
             },
             {
               "name": "Frappuccino",
               "price": "110,000",
               "isPopular": true,
-              "ingredient": ["Expresso", "Vanilla", "Caramel", "Milk"]
+              "ingredients": ["Expresso", "Vanilla", "Caramel", "Milk"]
             }
           ]
         }
