@@ -5,30 +5,34 @@
       "subcategories": [
         {
           "name": "Salads",
-          "items": [
+          "foods": [
             {
-              "name": "Tabbouleh",
+              "en": {
+                "name": "Tabbouleh",
+                "ingredients": [
+                  "Fresh Parsley",
+                  "Tomato",
+                  "Bourgoul",
+                  "Onions",
+                  "Sweet Pepper",
+                  "Lemon Oil Sauce"
+                ]
+              },
               "price": "145,000",
-              "isPopular": true,
-              "ingredients": [
-                "Fresh Parsley",
-                "Tomato",
-                "Bourgoul",
-                "Onions",
-                "Sweet Pepper",
-                "Lemon Oil Sauce"
-              ]
+              "isPopular": true
             },
             {
-              "name": "Classic Caesar",
+              "en": {
+                "name": "Classic Caesar",
+                "ingredients": [
+                  "Iceburg Lettuce",
+                  "Parmesan Cheese",
+                  "Croutons on top",
+                  "Caesar sauce"
+                ]
+              },
               "price": "270,000",
-              "isPopular": false,
-              "ingredients": [
-                "Iceburg Lettuce",
-                "Parmesan Cheese",
-                "Croutons on top",
-                "Caesar sauce"
-              ]
+              "isPopular": false
             }
           ]
         },
@@ -36,10 +40,12 @@
           "name": "Hot Mezza",
           "items": [
             {
-              "name": "French Fries",
+              "en": {
+                "name": "French Fries",
+                "ingredient": []
+              },
               "price": "125,000",
-              "isPopular": false,
-              "ingredient": []
+              "isPopular": false
             }
           ]
         }
@@ -54,16 +60,20 @@
           "name": "Cold coffee",
           "items": [
             {
-              "name": "Iced Coffee",
+              "en": {
+                "name": "Iced Coffee",
+                "ingredients": ["Expresso", "Milk Powder", "Coffee"]
+              },
               "price": "110,000",
-              "isPopular": true,
-              "ingredients": ["Expresso", "Milk Powder", "Coffee"]
+              "isPopular": true
             },
             {
-              "name": "Frappuccino",
+              "en": {
+                "name": "Frappuccino",
+                "ingredients": ["Expresso", "Vanilla", "Caramel", "Milk"]
+              },
               "price": "110,000",
-              "isPopular": true,
-              "ingredients": ["Expresso", "Vanilla", "Caramel", "Milk"]
+              "isPopular": true
             }
           ]
         }
