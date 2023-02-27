@@ -1,13 +1,13 @@
 [
   {
     "category": {
-      "name": "Foodies",
+      "name": "طعام",
       "subcategories": [
         {
-          "name": "Salads",
+          "name": "سلطة",
           "items": [
             {
-              "name": "Tabbouleh",
+              "name": "تبولة",
               "price": "145,000",
               "isPopular": true,
               "ingredients": [

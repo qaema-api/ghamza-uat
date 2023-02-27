@@ -1,0 +1,73 @@
+[
+  {
+    "category": {
+      "name": "Food",
+      "subcategories": [
+        {
+          "name": "Salad",
+          "items": [
+            {
+              "name": "Tabbouleh",
+              "price": "145,000",
+              "isPopular": true,
+              "ingredients": [
+                "Fresh Parsley",
+                "Tomato",
+                "Bourgoul",
+                "Onions",
+                "Sweet Pepper",
+                "Lemon Oil Sauce"
+              ]
+            },
+            {
+              "name": "Classic Caesar",
+              "price": "270,000",
+              "isPopular": false,
+              "ingredients": [
+                "Iceburg Lettuce",
+                "Parmesan Cheese",
+                "Croutons on top",
+                "Caesar sauce"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hot Mezza",
+          "items": [
+            {
+              "name": "French Fries",
+              "price": "125,000",
+              "isPopular": false,
+              "ingredient": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "name": "Beverages",
+      "subcategories": [
+        {
+          "name": "Cold coffee",
+          "items": [
+            {
+              "name": "Iced Coffee",
+              "price": "110,000",
+              "isPopular": true,
+              "ingredients": ["Expresso", "Milk Powder", "Coffee"]
+            },
+            {
+              "name": "Frappuccino",
+              "price": "110,000",
+              "isPopular": true,
+              "ingredients": ["Expresso", "Vanilla", "Caramel", "Milk"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
